@@ -27,6 +27,23 @@ get commit -m 'Initial commit'
 # Änderungen und neue Dateien in VC übernehmen => commit
 get commit -am 'Initial commit'
 
+
+# --------------------------------------------------------
+
+#…or create a new repository on the command line
+echo "# home" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/yourid/repos
+git push -u origin master
+
+# …or push an existing repository from the command line
+git remote add origin https://github.com/yourid/yourrepos.git
+git push -u origin master
+
+# --------------------------------------------------------
+
 # Anzeigen der vorhandenen Tags und neuen Tag anlegen
 git tag
 git tag $TAG_ID
