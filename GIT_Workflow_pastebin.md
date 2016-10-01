@@ -1,3 +1,4 @@
+```shell
 # GIT Workflow Basics
 
 # GIT_init_pastebin.sh
@@ -9,7 +10,7 @@
 # Explorer, Rechtsklick auf 'Git Bash here' und Verzeichnis initialisieren
 git init
 
-# Bei der ersten Nutzung von GIT auf dem PC bitte zuerst zu Abschnitt 
+# Bei der ersten Nutzung von GIT auf dem PC bitte zuerst zu Abschnitt
 # Vorbereitungen springen.
 
 # Git status des aktuellen Verzeichnisses prüfen
@@ -99,5 +100,4 @@ echo '*.gzip' >>.gitignore
 echo '~*.*' >>.gitignore
 git add .gitignore
 git commit -m "Hinzufügen von .gitignore für Dokumentationsprojekte unter Windows"
-
-
+```
