@@ -2,7 +2,8 @@
 GIT Repository Startseite
 ==========================
 
-Hilfeseiten:
+Hilfeseiten
+------------
 
 * [GIT Workflow](./GIT Workflow.pdf)
 * GIT PasteBin Kommandozeilenaufrufe
