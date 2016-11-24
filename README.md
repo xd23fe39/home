@@ -1,5 +1,5 @@
 
-GIT Repository Startseite
+Meine GIT Landingpage
 ==========================
 
 GIT Benutzerhandbuch und Dokumentation
