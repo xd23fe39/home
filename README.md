@@ -2,6 +2,9 @@
 GIT Repository Startseite
 ==========================
 
+GIT Benutzerhandbuch und Dokumentation
+---------------------------------------
+
 Online-Hilfe (deutsch) zu git:
 
 https://git-scm.com/book/de/v1
