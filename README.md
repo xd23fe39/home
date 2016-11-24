@@ -12,6 +12,17 @@ https://git-scm.com/book/de/v1
 Neues GIT-Projekt anlegen
 -------------------------
 
+### Neues GIT-Projekt erstellen
+
+```
+echo "# README Markdown" >> README.md
+git init
+git add README.md
+git commit -m "First commit"
+git remote add origin https://github.com/xd23fe39/my-project.git
+git push -u origin master
+```
+
 ### Die Datei .gitignore
 
 ```
@@ -31,13 +42,6 @@ $*
 §*
 ~*
 ```
-
-Hilfeseiten
-------------
-
-* [GIT PasteBin](./GIT_Workflow_pastebin.md)
-* [Arduino Basics](https://github.com/xd23fe39/arduino-basics)
-
 
 Weitere Themen
 ---------------
