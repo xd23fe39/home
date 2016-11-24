@@ -1,6 +1,7 @@
 
-Meine GIT Landingpage
+GIT Homepage von xd23fe39
 ==========================
+(c) 2016 xd23fe39
 
 GIT Benutzerhandbuch und Dokumentation
 ---------------------------------------
