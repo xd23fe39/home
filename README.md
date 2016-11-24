@@ -9,6 +9,29 @@ Online-Hilfe (deutsch) zu git:
 
 https://git-scm.com/book/de/v1
 
+Neues GIT-Projekt anlegen
+-------------------------
+
+### Die Datei .gitignore
+
+```
+# Entwicklung
+[Bb]uild
+[Ll]og
+# Backup Dateien
+*.zip
+*.bak
+*.backup
+*.saved
+*.original
+# Deklaratives Ignorieren
+_*
+$*
+&*
+§*
+~*
+```
+
 Hilfeseiten
 ------------
 
