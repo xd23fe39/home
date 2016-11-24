@@ -1,8 +1,15 @@
-temp/
-build/
-deploy/
-test/
-logs/
+# Entwicklung
+[Bb]uild
+[Ll]og
+# Backup Dateien
 *.zip
-*.gzip
-~*.*
+*.bak
+*.backup
+*.saved
+*.original
+# Deklaratives Ignorieren
+_*
+$*
+&*
+§*
+~*
